@@ -12,7 +12,6 @@ The **Top 50 SQL Problems** is a hand-picked collection of SQL problems designed
 - **Window Functions** (RANK, DENSE_RANK, LEAD, LAG)
 - **Subqueries & CTEs** (WITH, EXISTS, NOT EXISTS)
 - **Conditional Logic** (CASE, IF, COALESCE)
-- **Advanced Topics** (Pivoting, Recursive Queries)
 
 These problems are frequently asked in interviews at top tech companies such as **Google, Amazon, Microsoft, and Meta**.
 
